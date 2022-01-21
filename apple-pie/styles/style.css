@@ -1,0 +1,50 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+  background-color: burlywood;
+  text-align: center;
+  margin: 0 auto;
+  padding: 30%;
+  font-size: 70px;
+  color: white;
+  font-weight: lighter;
+  background-image: url('/images/apple-pie.jpg');
+  background-size: 1500px;
+}
+
+.granma {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 30px 110px;
+  font-size: 20px;
+  color: black;
+  font-weight: 100;
+}
+
+.infoImage {
+  display: flex;
+  justify-content: center;
+  height: 60px;
+  margin: 30px;
+}
+hr {
+  margin: auto 110px;
+}
+
+h3 {
+  font-weight: 100;
+  margin: 30px 110px;
+}
+ul {
+  list-style: '- ';
+  font-weight: 100;
+  margin: 30px 110px;
+}
+
+ol {
+  font-weight: 100;
+  margin: 30px 110px;
+}
